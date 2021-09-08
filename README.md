@@ -15,6 +15,8 @@
 
 [<img align="left" alt="Instagram" width="30px" style="margin: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"/>][instagram] 
 
+[<img align="left" alt="Email" width="30px" style="margin: 5px;" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-logo-icons-2.png"/>][email] 
+
 <br />
 
 ### Languages and Tools
@@ -38,6 +40,12 @@
 <br />
 <br />
 
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 [twitter]: https://twitter.com/Th3_Antonio
 [linkedIn]: https://www.linkedin.com/in/antonio-bennett-22045a195/
 [instagram]: https://www.instagram.com/the_a.n.t.o.n.i.o/
+[email]: mailto:bennettantonio199@gmail.com
