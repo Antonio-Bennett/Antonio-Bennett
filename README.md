@@ -40,9 +40,15 @@
 <br />
 <br />
 
+---
+
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antonio-Bennett&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/Th3_Antonio
