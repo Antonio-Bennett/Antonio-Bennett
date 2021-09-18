@@ -44,6 +44,7 @@
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Static Site Generator (RSSG Release 0.1.0)](https://dev.to/antoniobennett/rust-static-site-generator-rssg-release-0-1-0-3o9e)
 - [Journey To The Centre of OSD](https://dev.to/antoniobennett/journey-to-the-centre-of-osd-3bk)
 <!-- BLOG-POST-LIST:END -->
 
