@@ -44,6 +44,7 @@
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest Week 1](https://dev.to/antoniobennett/hacktoberfest-week-1-4ebc)
 - [Adding New Features to Rssg and Git Merging Branches](https://dev.to/antoniobennett/adding-new-features-to-rssg-and-git-merging-branches-4dl1)
 - [The World Of PR's](https://dev.to/antoniobennett/the-world-of-pr-s-oca)
 - [Rust Static Site Generator (RSSG Release 0.1.0)](https://dev.to/antoniobennett/rust-static-site-generator-rssg-release-0-1-0-3o9e)
