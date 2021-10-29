@@ -44,11 +44,11 @@
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Programming](https://dev.to/antoniobennett/meta-programming-56j3)
 - [Refactoring Code](https://dev.to/antoniobennett/refactoring-code-2gf4)
 - [Hacktoberfest Week 2](https://dev.to/antoniobennett/hacktoberfest-week-2-39l9)
 - [PRs, Merges and Json](https://dev.to/antoniobennett/prs-merges-and-json-b9n)
 - [Hacktoberfest Week 1](https://dev.to/antoniobennett/hacktoberfest-week-1-4ebc)
-- [Adding New Features to Rssg and Git Merging Branches](https://dev.to/antoniobennett/adding-new-features-to-rssg-and-git-merging-branches-4dl1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
