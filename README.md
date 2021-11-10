@@ -44,11 +44,11 @@
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making it easier to contribute to Open Source](https://dev.to/antoniobennett/making-it-easier-to-contribute-to-open-source-215o)
 - [Meta Programming](https://dev.to/antoniobennett/meta-programming-56j3)
 - [Refactoring Code](https://dev.to/antoniobennett/refactoring-code-2gf4)
 - [Hacktoberfest Week 2](https://dev.to/antoniobennett/hacktoberfest-week-2-39l9)
 - [PRs, Merges and Json](https://dev.to/antoniobennett/prs-merges-and-json-b9n)
-- [Hacktoberfest Week 1](https://dev.to/antoniobennett/hacktoberfest-week-1-4ebc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
