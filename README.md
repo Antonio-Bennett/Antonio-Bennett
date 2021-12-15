@@ -44,11 +44,11 @@
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Final Thoughts on Release 0.4](https://dev.to/antoniobennett/final-thoughts-on-pr-planning-pim)
+- [PR Update](https://dev.to/antoniobennett/pr-update-jin)
+- [Prepping PR&#39;S](https://dev.to/antoniobennett/prepping-prs-ifg)
 - [Reviewing PR&#39;S](https://dev.to/antoniobennett/reviewing-prs-3h67)
 - [Making it easier to contribute to Open Source](https://dev.to/antoniobennett/making-it-easier-to-contribute-to-open-source-215o)
-- [Meta Programming](https://dev.to/antoniobennett/meta-programming-56j3)
-- [Refactoring Code](https://dev.to/antoniobennett/refactoring-code-2gf4)
-- [Hacktoberfest Week 2](https://dev.to/antoniobennett/hacktoberfest-week-2-39l9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
