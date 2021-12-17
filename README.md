@@ -44,11 +44,11 @@
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pure Js is Hard #3](https://dev.to/antoniobennett/pure-js-is-hard-3-56m6)
+- [Release 0.3 Seneca-ICTOER/IPC144](https://dev.to/antoniobennett/release-03-seneca-ictoeripc144-2n2l)
 - [Pure Js is Hard #2](https://dev.to/antoniobennett/pure-js-is-hard-2-2hpk)
 - [Pure JS is Hard](https://dev.to/antoniobennett/pure-js-is-hard-41ob)
 - [Final Thoughts on Release 0.4](https://dev.to/antoniobennett/final-thoughts-on-pr-planning-pim)
-- [PR Update](https://dev.to/antoniobennett/pr-update-jin)
-- [Prepping PR&#39;S](https://dev.to/antoniobennett/prepping-prs-ifg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
