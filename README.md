@@ -44,11 +44,11 @@
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pure Js is Hard #2](https://dev.to/antoniobennett/pure-js-is-hard-2-2hpk)
+- [Pure JS is Hard](https://dev.to/antoniobennett/pure-js-is-hard-41ob)
 - [Final Thoughts on Release 0.4](https://dev.to/antoniobennett/final-thoughts-on-pr-planning-pim)
 - [PR Update](https://dev.to/antoniobennett/pr-update-jin)
 - [Prepping PR&#39;S](https://dev.to/antoniobennett/prepping-prs-ifg)
-- [Reviewing PR&#39;S](https://dev.to/antoniobennett/reviewing-prs-3h67)
-- [Making it easier to contribute to Open Source](https://dev.to/antoniobennett/making-it-easier-to-contribute-to-open-source-215o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
