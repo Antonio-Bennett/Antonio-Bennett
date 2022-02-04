@@ -1,7 +1,7 @@
 ### Hey I'm Antonio! Nice to meet you 😄
 
 ## I'm currently a Student at [Seneca College](https://www.senecacollege.ca/home.html) and a growing Developer 
-- 💻 Currently working on a static site generator
+- 💻 Currently looking for working opportunities
 - 🌱 Learning everything I can 
 - 👬 Excited to collaborate with other Developers! 
 - 🥅 Current Goal: Contribute more to Open Source Projects
