@@ -1,6 +1,6 @@
 ### Hey I'm Antonio! Nice to meet you 😄
 
-## I'm currently a Student at [Seneca College](https://www.senecacollege.ca/home.html) and a growing Developer 
+## Just here trying to learn and grow as a Software Dev 
 - 💻 Currently looking for working opportunities
 - 🌱 Learning everything I can 
 - 👬 Excited to collaborate with other Developers! 
