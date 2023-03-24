@@ -2,7 +2,7 @@
 
 ## Just here trying to learn and grow as a Software Dev
 
-- 💻 Currently looking for working opportunities
+- 💻 Working @ Mabels Labels
 - 🌱 Learning everything I can
 - 👬 Excited to collaborate with other Developers!
 - 🥅 Current Goal: Contribute more to Open Source Projects
